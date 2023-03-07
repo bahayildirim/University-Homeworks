@@ -1,0 +1,3 @@
+﻿  CMPE225 HW-1.cpp
+CMPE225 HW-1.obj : error LNK2019: unresolved external symbol "int __cdecl calcMin(class Hours,class Hours)" (?calcMin@@YAHVHours@@0@Z) referenced in function main
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE225\CMPE225 HW-1\x64\Debug\CMPE225 HW-1.exe : fatal error LNK1120: 1 unresolved externals

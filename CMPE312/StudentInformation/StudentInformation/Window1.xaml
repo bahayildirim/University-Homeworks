@@ -1,0 +1,20 @@
+﻿<Window x:Class="StudentInformation.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformation"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Label Content="Course Code" HorizontalAlignment="Left" Margin="73,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="Course Name" HorizontalAlignment="Left" Margin="73,168,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textbox_code" HorizontalAlignment="Left" Height="23" Margin="170,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox_name" HorizontalAlignment="Left" Height="23" Margin="170,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="addCourse" Content="Add Course" HorizontalAlignment="Left" Margin="30,299,0,0" VerticalAlignment="Top" Width="152" Height="62" Click="addCourse_Click"/>
+        <Button x:Name="delCourse" Content="Delete Course" HorizontalAlignment="Left" Margin="222,299,0,0" VerticalAlignment="Top" Width="152" Height="62"/>
+        <Button x:Name="updateCourse" Content="Update Course" HorizontalAlignment="Left" Margin="416,299,0,0" VerticalAlignment="Top" Width="152" Height="62"/>
+        <Button x:Name="back" Content="Back To Main Window" HorizontalAlignment="Left" Margin="617,299,0,0" VerticalAlignment="Top" Width="152" Height="62" Click="back_Click"/>
+
+    </Grid>
+</Window>

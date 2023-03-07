@@ -1,0 +1,8 @@
+﻿  yildirim_baha_hw2.cpp
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\yildirim_baha_hw2.cpp(32,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\yildirim_baha_hw2.cpp(141): message : see reference to class template instantiation 'Snake<T>' being compiled
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\yildirim_baha_hw2.cpp(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\yildirim_baha_hw2.cpp(28): message : while compiling class template member function 'Snake<std::array<int,2>>::Snake(void)'
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\yildirim_baha_hw2.cpp(145): message : see reference to function template instantiation 'Snake<std::array<int,2>>::Snake(void)' being compiled
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\yildirim_baha_hw2.cpp(145): message : see reference to class template instantiation 'Snake<std::array<int,2>>' being compiled
+  yildirim_baha_hw2.cpp.vcxproj -> C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE226\yildirim_baha_hw2.cpp\Debug\yildirim_baha_hw2.exe

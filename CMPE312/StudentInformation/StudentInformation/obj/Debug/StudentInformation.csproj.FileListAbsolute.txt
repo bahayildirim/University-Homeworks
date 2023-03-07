@@ -1,0 +1,17 @@
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojAssemblyReference.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\MainWindow.g.cs
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\App.g.cs
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.lref
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\MainWindow.baml
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.g.resources
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\Window1.g.cs
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\StudentInformation\StudentInformation\obj\Debug\Window1.baml

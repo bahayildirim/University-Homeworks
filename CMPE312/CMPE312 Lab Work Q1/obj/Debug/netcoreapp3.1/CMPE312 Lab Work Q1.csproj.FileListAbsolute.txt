@@ -1,0 +1,13 @@
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\bin\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.exe
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\bin\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.deps.json
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\bin\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.runtimeconfig.json
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\bin\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.runtimeconfig.dev.json
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\bin\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.dll
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\bin\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.pdb
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.csprojAssemblyReference.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.AssemblyInfoInputs.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.AssemblyInfo.cs
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.csproj.CoreCompileInputs.cache
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.dll
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.pdb
+C:\Users\bahab\OneDrive\Masaüstü\Kodlama Dosyaları\CMPE312\CMPE312 Lab Work Q1\obj\Debug\netcoreapp3.1\CMPE312 Lab Work Q1.genruntimeconfig.cache

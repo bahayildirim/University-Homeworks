@@ -1,0 +1,16 @@
+﻿<Window x:Class="BMI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI"
+        mc:Ignorable="d"
+        Title="Menu" Height="400" Width="300">
+    <Grid>
+        <Button x:Name="Activities" Content="BMI &amp; Activities" HorizontalAlignment="Left" Margin="47,80,0,0" VerticalAlignment="Top" Width="200" Height="60" FontWeight="Bold" FontSize="16" Background="Azure" Click="Activities_Click"></Button>
+        <Button x:Name="BeHealthy" Content="BeHealthy Web Page" HorizontalAlignment="Left" Margin="47,169,0,0" VerticalAlignment="Top" Width="200" Height="60" FontWeight="Bold" FontSize="16" Background="Azure" Click="BeHealthy_Click"/>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="47,259,0,0" VerticalAlignment="Top" Width="200" Height="60" FontWeight="Bold" FontSize="16" Background="Azure" Click="Exit_Click"/>
+        <Label Content="Welcome to B-HEALTHY APP" HorizontalAlignment="Left" Margin="32,22,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="Blue"/>
+
+    </Grid>
+</Window>

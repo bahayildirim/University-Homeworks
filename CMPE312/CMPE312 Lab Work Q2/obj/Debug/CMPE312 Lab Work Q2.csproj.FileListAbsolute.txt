@@ -1,0 +1,21 @@
+C:\CMPE312 Lab Work Q2\bin\Debug\CMPE312 Lab Work Q2.exe.config
+C:\CMPE312 Lab Work Q2\bin\Debug\CMPE312 Lab Work Q2.exe
+C:\CMPE312 Lab Work Q2\bin\Debug\CMPE312 Lab Work Q2.pdb
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2.csprojAssemblyReference.cache
+C:\CMPE312 Lab Work Q2\obj\Debug\MainWindow.g.cs
+C:\CMPE312 Lab Work Q2\obj\Debug\Window1.g.cs
+C:\CMPE312 Lab Work Q2\obj\Debug\Window2.g.cs
+C:\CMPE312 Lab Work Q2\obj\Debug\App.g.cs
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2_MarkupCompile.cache
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2_MarkupCompile.lref
+C:\CMPE312 Lab Work Q2\obj\Debug\MainWindow.baml
+C:\CMPE312 Lab Work Q2\obj\Debug\Window1.baml
+C:\CMPE312 Lab Work Q2\obj\Debug\Window2.baml
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2.g.resources
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312_Lab_Work_Q2.Properties.Resources.resources
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2.csproj.GenerateResource.cache
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2.csproj.CoreCompileInputs.cache
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2.exe
+C:\CMPE312 Lab Work Q2\obj\Debug\CMPE312 Lab Work Q2.pdb
+C:\CMPE312 Lab Work Q2\obj\Debug\Window3.g.cs
+C:\CMPE312 Lab Work Q2\obj\Debug\Window3.baml
