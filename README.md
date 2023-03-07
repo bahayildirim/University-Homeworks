@@ -1,1 +1,1 @@
-# A bundle of all assignments I have done during university.
+A bundle of all assignments I have done during university.
